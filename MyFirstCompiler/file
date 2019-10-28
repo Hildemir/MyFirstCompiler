@@ -1,0 +1,39 @@
+int main() {
+    int x,z;
+    float y,h;int c;float w,k,a;
+
+    k = x + 1;
+%
+
+    w = 5/x+y*8+5* 7;
+    /** /** /*
+       teste &%
+    ***/
+
+    WWW
+    do{
+
+        w = w + 1;
+
+    }while  (y<10);
+
+
+    y = x;
+
+    while (x>w*8) {
+       int y,a;
+        w = w +1;
+        y = 10;
+    }
+
+    y = 1.0;
+
+    a = 0;
+
+    if (w != x)
+    {
+
+        p = 10;
+    }
+
+}

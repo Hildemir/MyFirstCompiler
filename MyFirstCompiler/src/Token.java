@@ -1,0 +1,45 @@
+public enum Token {
+    CHAR,
+    INT,
+    FLOAT,
+    IDENTIFIER,
+
+    //ARITMETHICAL OPERADORS
+    PLUS,
+    MINUS,
+    MULTIPLIED,
+    DIVIDED,
+    EQUAL,
+
+    //RELATIONAL OPERATORS
+    LESS_THAN,
+    GREATER_THAN,
+    LESS_THAN_OR_EQUAL,
+    GREATER_THAN_OR_EQUAL,
+    EQUIVALENT,
+    NOT_EQUAL,
+
+    //ESPECIAL CHARACTERS
+    OPEN_BRACES,
+    CLOSED_BRACES,
+    OPEN_PARENTHESES,
+    CLOSED_PARENTHESES,
+    COMMA,
+    SEMICOLON,
+
+    //RESERVED
+    MAIN,
+    IF,
+    ELSE,
+    WHILE,
+    DO,
+    FOR,
+    TYPE_INT,
+    TYPE_FLOAT,
+    TYPE_CHAR,
+    ERROR,
+
+    EOF,
+    COMMENT
+
+}
